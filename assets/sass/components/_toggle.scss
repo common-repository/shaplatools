@@ -1,0 +1,45 @@
+/* Toggle */
+.shapla-toggle {
+	margin: 0 0 1em 0;
+
+	&-title {
+		display: block;
+		padding: 15px 10px;
+		outline: 0;
+		cursor: pointer;
+		position: relative;
+
+		&:after {
+			position: absolute;
+			top: 50%;
+			right: 15px;
+			font-size: 18px;
+			@include transform(translateY(-50%));
+			@include iconify{
+				content: '\f067';
+			};
+		}
+
+		&.ui-state-active:after {
+			content: "\f068";
+		}
+	}
+
+	&-content {
+		padding: 20px;
+		background-color: #f1f1f1;
+	}
+
+	&--normal .shapla-toggle-title {
+		background: $accent;
+		color: white;
+	}
+
+	&--stroke .shapla-toggle-title {
+		border: 1px solid $accent;
+
+		&:after {
+			color: $accent;
+		}
+	}
+}

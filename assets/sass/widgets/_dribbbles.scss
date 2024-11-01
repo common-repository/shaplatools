@@ -1,0 +1,19 @@
+.widget_shapla_dribbble {
+	.dribbble-list {
+		margin: 0;
+		padding: 0;
+		list-style: none;
+
+		.dribbble-list-item {
+			margin-bottom: 15px;
+		}
+
+		.dribbble-link {
+			display: block;
+
+			> img {
+				display: block;
+			}
+		}
+	}
+}

@@ -1,0 +1,134 @@
+.shapla-clearfix { zoom: 1; }
+.shapla-clearfix:before, .shapla-clearfix:after { display: table; content: ""; }
+.shapla-clearfix:after { clear: both; }
+
+/* BUTTONS */
+.shapla-button { -webkit-appearance: none; -webkit-font-smoothing: inherit; display: inline-block; background: #979797; color: #fff; font-size: 16px; line-height: 1; margin: 5px; padding: 12px 16px; border-radius: 0; text-decoration: none; text-align: center; -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box; -moz-transition: all 200ms ease-in-out; -o-transition: all 200ms ease-in-out; -webkit-transition: all 200ms ease-in-out; transition: all 200ms ease-in-out; }
+.shapla-button:hover { color: #fff; text-decoration: none; }
+.shapla-button--normal { opacity: 0.9; filter: alpha(opacity=90); }
+.shapla-button--medium { font-size: 18px; padding: 17px 22px; }
+.shapla-button--large { font-size: 20px; padding: 22px 40px; }
+
+.shapla-button--black { background: #000; }
+.shapla-button--blue { background: #1b93c7; }
+.shapla-button--green { background: #84c333; }
+.shapla-button--light-blue { background: #56c3f2; }
+.shapla-button--orange { background: #fc901d; }
+.shapla-button--red { background: #d15858; }
+.shapla-button--purple { background: #c16ad7; }
+.shapla-button--dark { background: #363f48; }
+.shapla-button--grey { background: #979797; }
+.shapla-button--gray { background: #979797; }
+.shapla-button--white { background: #fff; color: #000; }
+.shapla-button--white:hover { color: #000; }
+.shapla-button--stroke { background: transparent; border: 1px solid transparent; }
+.shapla-button--stroke.shapla-button--black { color: #000; border-color: #000; }
+.shapla-button--stroke.shapla-button--black:hover { background: #000; color: #fff; }
+.shapla-button--stroke.shapla-button--blue { color: #1b93c7; border-color: #1b93c7; }
+.shapla-button--stroke.shapla-button--blue:hover { background: #1b93c7; color: #fff; }
+.shapla-button--stroke.shapla-button--green { color: #84c333; border-color: #84c333; }
+.shapla-button--stroke.shapla-button--green:hover { background: #84c333; color: #fff; }
+.shapla-button--stroke.shapla-button--grey { color: #979797; border-color: #979797; }
+.shapla-button--stroke.shapla-button--grey:hover { background: #979797; color: #fff; }
+.shapla-button--stroke.shapla-button--light-blue { color: #56c3f2; border-color: #56c3f2; }
+.shapla-button--stroke.shapla-button--light-blue:hover { background: #56c3f2; color: #fff; }
+.shapla-button--stroke.shapla-button--orange { color: #fc901d; border-color: #fc901d; }
+.shapla-button--stroke.shapla-button--orange:hover { background: #fc901d; color: #fff; }
+.shapla-button--stroke.shapla-button--red { color: #d15858; border-color: #d15858; }
+.shapla-button--stroke.shapla-button--red:hover { background: #d15858; color: #fff; }
+.shapla-button--stroke.shapla-button--purple { color: #c16ad7; border-color: #c16ad7; }
+.shapla-button--stroke.shapla-button--purple:hover { background: #c16ad7; color: #fff; }
+.shapla-button--stroke.shapla-button--white { color: #fff; border-color: #fff; }
+.shapla-button--stroke.shapla-button--white:hover { background: #fff; color: #000; }
+.shapla-button--stroke.shapla-button--dark { color: #363f48; border-color: #363f48; }
+.shapla-button--stroke.shapla-button--dark:hover { background: #363f48; color: #fff; }
+
+/* ALERTS */
+.shapla-alert { padding: 20px 15px; margin: 1em 0; }
+.shapla-alert--green { background: #84c333; }
+.shapla-alert--red { background: #d15858; }
+.shapla-alert--yellow { background: #ffd164; }
+.shapla-alert--blue { background: #1b93c7; }
+.shapla-alert--gray { background: #979797; }
+.shapla-alert--grey { background: #979797; }
+.shapla-alert--white { background: #f5f5f5; }
+
+/* Dropcap */
+.shapla-dropcap { display: block; float: left; text-align: center; margin: 5px 15px 15px 0; }
+.shapla-dropcap--squared { background: #363f48; color: #fff; }
+
+/* DIVIDER */
+.shapla-divider { border: 0; height: 1px; background: #363f48; margin: 2em 0; }
+.shapla-divider--strong { height: 7px; }
+.shapla-divider--double { height: 7px; }
+.shapla-divider--double:after { content: ''; display: block; border-bottom: 1px solid #363f48; position: relative; top: 10px; }
+.shapla-divider--dashed { background: none; border-bottom: 1px dashed #363f48; }
+.shapla-divider--dotted { background: none; border-bottom: 1px dotted #363f48; }
+
+/* Tabs */
+.shapla-nav { list-style: none !important; margin: 0; padding: 0; }
+.shapla-nav li { margin: 0; float: left; position: relative; margin: 0 1px -1px 0 !important; z-index: 1; outline: 0; }
+.shapla-nav a { text-decoration: none; display: block; padding: 15px 10px; line-height: 1; outline: 0; }
+
+.shapla-tab { margin: 0 0 2em 0; padding: 21px 20px 20px 20px; }
+.shapla-tab p:first-of-type { margin-top: 0; }
+.shapla-tab p:last-of-type { margin-bottom: 0; }
+
+.shapla-tabs--normal .shapla-nav a { background: #363f48; color: #fff; }
+.shapla-tabs--normal .shapla-nav .ui-tabs-active a { background: #f1f1f1; color: #363f48; outline: 0; }
+.shapla-tabs--normal .shapla-tab { background: #f1f1f1; }
+
+.shapla-tabs--stroke .shapla-nav li { margin: 0 -1px 0 0 !important; }
+.shapla-tabs--stroke .shapla-nav a { border: 1px solid #363f48; color: #363f48; }
+.shapla-tabs--stroke .shapla-nav .ui-tabs-active a { border-bottom-color: white; }
+.shapla-tabs--stroke .shapla-tab { border: 1px solid #363f48; margin-top: -1px; }
+
+/* Toggle */
+.shapla-toggle { margin: 0 0 1em 0; }
+.shapla-toggle-title { display: block; padding: 15px 10px; outline: 0; cursor: pointer; position: relative; }
+.shapla-toggle-title:after { position: absolute; top: 50%; right: 15px; font-size: 18px; -moz-transform: translateY(-50%); -o-transform: translateY(-50%); -webkit-transform: translateY(-50%); transform: translateY(-50%); content: '\f067'; display: inline-block; font-family: FontAwesome; font-style: normal; font-weight: normal; line-height: 1; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
+.shapla-toggle-title.ui-state-active:after { content: "\f068"; }
+.shapla-toggle-content { padding: 20px; background-color: #f1f1f1; }
+.shapla-toggle--normal .shapla-toggle-title { background: #363f48; color: white; }
+.shapla-toggle--stroke .shapla-toggle-title { border: 1px solid #363f48; }
+.shapla-toggle--stroke .shapla-toggle-title:after { color: #363f48; }
+
+/* Image */
+.shapla-image { display: inline-block; }
+.shapla-image--left { float: left; margin: 0 1.5em 1em 0; }
+.shapla-image--center { display: block; margin: 1.5em 0; text-align: center; }
+.shapla-image--right { float: right; margin: 0 0 1.5em 1.5em; }
+.shapla-image--grayscale { -webkit-filter: grayscale(1); filter: grayscale(1); }
+.shapla-image--sepia { -webkit-filter: sepia(100%); filter: sepia(100%); }
+.shapla-image--blur { -webkit-filter: blur(2px); filter: blur(2px); }
+.shapla-image--hue-rotate { -webkit-filter: hue-rotate(50deg); filter: hue-rotate(50deg); }
+.shapla-image--contrast { -webkit-filter: contrast(15%); filter: contrast(15%); }
+.shapla-image--brightness { -webkit-filter: brightness(2); filter: brightness(2); }
+.shapla-image--invert { -webkit-filter: invert(100%); filter: invert(100%); }
+
+/* Video */
+.shapla-video { position: relative; margin: 0 0 2em 0; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden; }
+.shapla-video iframe, .shapla-video object, .shapla-video embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
+
+/* Shapla Icon */
+.shapla-icon-link { text-decoration: none; -moz-transition: color 150ms; -o-transition: color 150ms; -webkit-transition: color 150ms; transition: color 150ms; }
+
+.fa, .shapla-icon { text-align: center; vertical-align: middle; }
+.fa--before .fa, .shapla-icon--before .fa, .fa--before .shapla-icon, .shapla-icon--before .shapla-icon { margin-right: 0.7em; }
+.fa--after .fa, .shapla-icon--after .fa, .fa--after .shapla-icon, .shapla-icon--after .shapla-icon { margin-left: 0.7em; }
+
+/* Intro Text */
+.shapla-intro-text { font-size: 125%; font-weight: 600; margin-bottom: 2em; display: block; }
+
+/* Social Icons */
+.shapla-social-icons { font-size: 45px; }
+.shapla-social-icons .shapla-icon { line-height: 72px; }
+.shapla-social-icons a { display: inline-block; width: 72px; height: 72px; text-align: center; vertical-align: top; margin: 0 10px 10px 0; }
+.shapla-social-icons.normal a { color: #2f322b; }
+.shapla-social-icons.square a { background: #2f322b; color: #fff; }
+
+.google-map { margin: 0 0 2em 0; }
+
+.gm-style img { max-width: none; }
+
+/*# sourceMappingURL=editor-style.css.map */

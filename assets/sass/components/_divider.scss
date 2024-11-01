@@ -1,0 +1,31 @@
+/* DIVIDER */
+.shapla-divider {
+	border: 0;
+	height: 1px;
+	background: $accent;
+	margin: 2em 0;
+	&--strong {
+		height: 7px;
+	}
+
+	&--double {
+		height: 7px;
+	}
+	&--double:after {
+		content: '';
+		display: block;
+		border-bottom: 1px solid $accent;
+		position: relative;
+		top: 10px;
+	}
+
+	&--dashed {
+		background: none;
+		border-bottom: 1px dashed $accent;
+	}
+
+	&--dotted {
+		background: none;
+		border-bottom: 1px dotted $accent;
+	}
+}

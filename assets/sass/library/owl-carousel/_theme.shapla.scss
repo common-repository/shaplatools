@@ -1,0 +1,81 @@
+/*
+ * 	Shapla theme - Modified from Green theme
+ */
+$color-base:			#4DC7A0 !default;
+$color-white:			#FFF !default;
+$color-gray:			#D6D6D6 !default;
+
+//nav
+
+$nav-color: 			$color-white !default;
+$nav-color-hover:		$color-white !default;
+$nav-font-size: 		14px !default;
+$nav-rounded: 			3px !default;
+$nav-margin: 			5px !default;
+$nav-padding: 			4px 7px !default;
+$nav-background: 		$color-gray !default;
+$nav-background-hover:	$color-base !default;
+$nav-disabled-opacity: 	0.5 !default;
+
+.owl-theme {
+	position: relative;
+
+	.owl-controls {
+		position: static;
+		bottom: 0;
+		left: 0;
+		right: 0;
+	}
+	// Styling Next and Prev buttons
+	.owl-nav {
+		margin-top: 10px;
+		text-align: center;
+		-webkit-tap-highlight-color: transparent;
+
+		[class*='owl-'] {
+			display: inline-block;
+			padding: 4px 7px;
+			text-indent: -1e+7px;
+			height: 25px;
+			width: 25px;
+			border-radius: 25px;
+
+			&:first-child {
+				background-position: 0 45px;
+				background-color: rgba(0,0,0,.2);
+				background-image: url($owl-arrows-url);
+				margin-right: 3px;
+				transition:all .3s ease-in-out;
+
+				&:hover {
+					background-position: 0 24px;
+					background-color: #4DC7A0;
+				}
+			}
+
+			&:last-child {
+				background-position: 2px 2px;
+				background-color: rgba(0,0,0,.2);
+				background-image: url($owl-arrows-url);
+				margin-left: 3px;
+				transition:all .3s ease-in-out;
+
+				&:hover {
+					background-position: 2px -20px;
+					background-color: #4DC7A0;
+				}
+			}
+
+			&:hover {
+				background-color: $nav-background-hover;
+				color:$nav-color-hover;
+				text-decoration: none;
+			}
+		}
+		.disabled {
+			opacity: $nav-disabled-opacity;
+			cursor: default;
+		}
+	}
+}
+

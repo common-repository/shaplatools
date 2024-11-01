@@ -1,0 +1,72 @@
+.shapla-border {
+	&-amber,
+	&-hover-amber:hover { @include border-color($color--amber); }
+	&-aqua,
+	&-hover-aqua:hover { @include border-color($color--aqua); }
+	&-blue,
+	&-hover-blue:hover { @include border-color($color--blue); }
+	&-light-blue,
+	&-hover-light-blue:hover { @include border-color($color--light_blue); }
+	&-brown,
+	&-hover-brown:hover { @include border-color($color--brown); }
+	&-cyan,
+	&-hover-cyan:hover { @include border-color($color--cyan); }
+	&-blue-grey,
+	&-hover-blue-grey:hover { @include border-color($color--blue_grey); }
+	&-green,
+	&-hover-green:hover { @include border-color($color--green); }
+	&-light-green,
+	&-hover-light-green:hover { @include border-color($color--light_green); }
+	&-indigo,
+	&-hover-indigo:hover { @include border-color($color--indigo); }
+	&-khaki,
+	&-hover-khaki:hover { @include border-color($color--khaki); }
+	&-lime,
+	&-hover-lime:hover { @include border-color($color--lime); }
+	&-orange,
+	&-hover-orange:hover { @include border-color($color--orange); }
+	&-deep-orange,
+	&-hover-deep-orange:hover { @include border-color($color--deep_orange); }
+	&-pink,
+	&-hover-pink:hover { @include border-color($color--pink); }
+	&-purple,
+	&-hover-purple:hover { @include border-color($color--purple); }
+	&-deep-purple,
+	&-hover-deep-purple:hover { @include border-color($color--deep_purple); }
+	&-red,
+	&-hover-red:hover { @include border-color($color--red); }
+	&-sand,
+	&-hover-sand:hover { @include border-color($color--sand); }
+	&-teal,
+	&-hover-teal:hover { @include border-color($color--teal); }
+	&-yellow,
+	&-hover-yellow:hover { @include border-color($color--yellow); }
+	&-white,
+	&-hover-white:hover { @include border-color($color--white); }
+	&-black,
+	&-hover-black:hover { @include border-color($color--black); }
+	&-grey,
+	&-hover-grey:hover { @include border-color($color--grey); }
+	&-light-grey,
+	&-hover-light-grey:hover { @include border-color($color--light_grey); }
+	&-dark-grey,
+	&-hover-dark-grey:hover { @include border-color($color--dark_grey); }
+	&-pale-red,
+	&-hover-pale-red:hover { @include border-color($color--pale_red); }
+	&-pale-green,
+	&-hover-pale-green:hover { @include border-color($color--pale_green); }
+	&-pale-yellow,
+	&-hover-pale-yellow:hover { @include border-color($color--pale_yellow); }
+	&-pale-blue,
+	&-hover-pale-blue:hover { @include border-color($color--pale_blue); }
+	&-default,
+	&-hover-default:hover { @include border-color($color--default); }
+	&-danger,
+	&-hover-danger:hover { @include border-color($color--danger); }
+	&-warning,
+	&-hover-warning:hover { @include border-color($color--warning); }
+	&-info,
+	&-hover-info:hover { @include border-color($color--info); }
+	&-success,
+	&-hover-success:hover { @include border-color($color--success); }
+}

@@ -1,0 +1,28 @@
+/* Image */
+.shapla-image {
+	display: inline-block;
+
+	&--left {
+		float: left;
+		margin: 0 1.5em 1em 0;
+	}
+
+	&--center {
+		display: block;
+		margin: 1.5em 0;
+		text-align: center;
+	}
+
+	&--right {
+		float: right;
+		margin: 0 0 1.5em 1.5em;
+	}
+
+	&--grayscale { @include filter(grayscale(1)); }
+	&--sepia { @include filter(sepia(100%)); }
+	&--blur { @include filter(blur(2px)); }
+	&--hue-rotate { @include filter(hue-rotate(50deg)); }
+	&--contrast { @include filter(contrast(15%)); }
+	&--brightness {  @include filter(#{"brightness(2)"}); }
+	&--invert { @include filter(invert(100%)); }
+}

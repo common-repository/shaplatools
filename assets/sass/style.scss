@@ -1,0 +1,31 @@
+// SASS Compile Command
+// sass --watch assets/sass/style.scss:assets/css/style.css
+// sass --watch assets/sass/style.scss:assets/css/style.css --style nested
+// sass --watch assets/sass/style.scss:assets/css/style.css --style expanded
+// sass --watch assets/sass/style.scss:assets/css/style.css --style compact
+// sass --watch assets/sass/style.scss:assets/css/style.css --style compressed
+
+// Components
+@import 'components/components';
+
+// Custom Post Type Style
+@import 'post-type/portfolio';
+@import 'post-type/feature';
+@import 'post-type/testimonial';
+@import 'post-type/team';
+@import 'post-type/slide';
+
+// Widgets
+@import 'widgets/flickr';
+@import 'widgets/twitter';
+@import 'widgets/dribbbles';
+@import 'widgets/instagram';
+
+// Shapla Grids System
+@import 'grids/grids';
+
+// Shapla Colors
+// @import 'colors/colors';
+
+// Library
+@import 'library/library'

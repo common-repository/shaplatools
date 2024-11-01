@@ -1,0 +1,109 @@
+.shapla-text {
+	&-amber,
+	&-hover-amber:hover { @include text-color($color--amber); }
+	&-aqua,
+	&-hover-aqua:hover { @include text-color($color--aqua); }
+	&-blue,
+	&-hover-blue:hover { @include text-color($color--blue); }
+	&-light-blue,
+	&-hover-light-blue:hover { @include text-color($color--light_blue); }
+	&-brown,
+	&-hover-brown:hover { @include text-color($color--brown); }
+	&-cyan,
+	&-hover-cyan:hover { @include text-color($color--cyan); }
+	&-blue-grey,
+	&-hover-blue-grey:hover { @include text-color($color--blue_grey); }
+	&-green,
+	&-hover-green:hover { @include text-color($color--green); }
+	&-light-green,
+	&-hover-light-green:hover { @include text-color($color--light_green); }
+	&-indigo,
+	&-hover-indigo:hover { @include text-color($color--indigo); }
+	&-khaki,
+	&-hover-khaki:hover { @include text-color($color--khaki); }
+	&-lime,
+	&-hover-lime:hover { @include text-color($color--lime); }
+	&-orange,
+	&-hover-orange:hover { @include text-color($color--orange); }
+	&-deep-orange,
+	&-hover-deep-orange:hover { @include text-color($color--deep_orange); }
+	&-pink,
+	&-hover-pink:hover { @include text-color($color--pink); }
+	&-purple,
+	&-hover-purple:hover { @include text-color($color--purple); }
+	&-deep-purple,
+	&-hover-deep-purple:hover { @include text-color($color--deep_purple); }
+	&-red,
+	&-hover-red:hover { @include text-color($color--red); }
+	&-sand,
+	&-hover-sand:hover { @include text-color($color--sand); }
+	&-teal,
+	&-hover-teal:hover { @include text-color($color--teal); }
+	&-yellow,
+	&-hover-yellow:hover { @include text-color($color--yellow); }
+	&-white,
+	&-hover-white:hover { @include text-color($color--white); }
+	&-black,
+	&-hover-black:hover { @include text-color($color--black); }
+	&-grey,
+	&-hover-grey:hover { @include text-color($color--grey); }
+	&-light-grey,
+	&-hover-light-grey:hover { @include text-color($color--light_grey); }
+	&-dark-grey,
+	&-hover-dark-grey:hover { @include text-color($color--dark_grey); }
+	&-pale-red,
+	&-hover-pale-red:hover { @include text-color($color--pale_red); }
+	&-pale-green,
+	&-hover-pale-green:hover { @include text-color($color--pale_green); }
+	&-pale-yellow,
+	&-hover-pale-yellow:hover { @include text-color($color--pale_yellow); }
+	&-pale-blue,
+	&-hover-pale-blue:hover { @include text-color($color--pale_blue); }
+	&-default,
+	&-hover-default:hover { @include text-color($color--default); }
+	&-danger,
+	&-hover-danger:hover { @include text-color($color--danger); }
+	&-warning,
+	&-hover-warning:hover { @include text-color($color--warning); }
+	&-info,
+	&-hover-info:hover { @include text-color($color--info); }
+	&-success,
+	&-hover-success:hover { @include text-color($color--success); }
+
+	&-hover {
+		&-default,
+		&-danger,
+		&-warning,
+		&-info,
+		&-success,
+		&-amber,
+		&-aqua,
+		&-blue,
+		&-light-blue,
+		&-brown,
+		&-cyan,
+		&-blue-grey,
+		&-green,
+		&-light-green,
+		&-indigo,
+		&-khaki,
+		&-lime,
+		&-orange,
+		&-deep-orange,
+		&-pink,
+		&-purple,
+		&-deep-purple,
+		&-red,
+		&-sand,
+		&-teal,
+		&-yellow,
+		&-white,
+		&-black,
+		&-grey,
+		&-light-grey,
+		&-dark-grey {
+			-webkit-transition:background-color .3s,color .15s,box-shadow .3s,opacity 0.3s;
+			transition:background-color .3s,color .15s,box-shadow .3s,opacity 0.3s;
+		}
+	}
+}

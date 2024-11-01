@@ -1,0 +1,25 @@
+/*
+ * jQuery Nivo Slider v3.2
+ * http://nivo.dev7studios.com
+ *
+ * Copyright 2012, Dev7studios
+ * Free to use and abuse under the MIT license.
+ * http://www.opensource.org/licenses/mit-license.php
+ */
+
+$image-path: 					"../img/nivoslide/";
+$nivo-loading-url : 			"#{$image-path}loading.gif";
+$nivo-bullets-default-url : 	"#{$image-path}default-bullets.png";
+$nivo-arrows-default-url : 		"#{$image-path}default-arrows.png";
+$nivo-bullets-light-url : 		"#{$image-path}light-bullets.png";
+$nivo-arrows-light-url : 		"#{$image-path}light-arrows.png";
+$nivo-bullets-dark-url : 		"#{$image-path}dark-bullets.png";
+$nivo-arrows-dark-url : 		"#{$image-path}dark-arrows.png";
+$nivo-arrows-smooth-url : 		"#{$image-path}smooth-arrows.png";
+
+@import 'core';
+@import 'default';
+@import 'bar';
+@import 'light';
+@import 'dark';
+@import 'smooth';

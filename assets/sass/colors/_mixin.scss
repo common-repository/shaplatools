@@ -1,0 +1,12 @@
+@mixin bg-color($bg_color, $color){
+	color:$color !important;
+	background-color:$bg_color !important;
+}
+
+@mixin text-color($color){
+	color:$color !important;
+}
+
+@mixin border-color($color){
+	border-color:$color !important;
+}

@@ -1,0 +1,109 @@
+.shapla {
+	&-amber,
+	&-hover-amber:hover { @include bg-color($color--amber, $color--black); }
+	&-aqua,
+	&-hover-aqua:hover { @include bg-color($color--aqua, $color--black); }
+	&-blue,
+	&-hover-blue:hover { @include bg-color($color--blue, $color--white); }
+	&-light-blue,
+	&-hover-light-blue:hover { @include bg-color($color--light_blue, $color--black); }
+	&-brown,
+	&-hover-brown:hover { @include bg-color($color--brown, $color--white); }
+	&-cyan,
+	&-hover-cyan:hover { @include bg-color($color--cyan, $color--black); }
+	&-blue-grey,
+	&-hover-blue-grey:hover { @include bg-color($color--blue_grey, $color--white); }
+	&-green,
+	&-hover-green:hover { @include bg-color($color--green, $color--white); }
+	&-light-green,
+	&-hover-light-green:hover { @include bg-color($color--light_green, $color--black); }
+	&-indigo,
+	&-hover-indigo:hover { @include bg-color($color--indigo, $color--white); }
+	&-khaki,
+	&-hover-khaki:hover { @include bg-color($color--khaki, $color--black); }
+	&-lime,
+	&-hover-lime:hover { @include bg-color($color--lime, $color--black); }
+	&-orange,
+	&-hover-orange:hover { @include bg-color($color--orange, $color--black); }
+	&-deep-orange,
+	&-hover-deep-orange:hover { @include bg-color($color--deep_orange, $color--white); }
+	&-pink,
+	&-hover-pink:hover { @include bg-color($color--pink, $color--white); }
+	&-purple,
+	&-hover-purple:hover { @include bg-color($color--purple, $color--white); }
+	&-deep-purple,
+	&-hover-deep-purple:hover { @include bg-color($color--deep_purple, $color--white); }
+	&-red,
+	&-hover-red:hover { @include bg-color($color--red, $color--white); }
+	&-sand,
+	&-hover-sand:hover { @include bg-color($color--sand, $color--black); }
+	&-teal,
+	&-hover-teal:hover { @include bg-color($color--teal, $color--white); }
+	&-yellow,
+	&-hover-yellow:hover { @include bg-color($color--yellow, $color--black); }
+	&-white,
+	&-hover-white:hover { @include bg-color($color--white, $color--black); }
+	&-black,
+	&-hover-black:hover { @include bg-color($color--black, $color--white); }
+	&-grey,
+	&-hover-grey:hover { @include bg-color($color--grey, $color--black); }
+	&-light-grey,
+	&-hover-light-grey:hover { @include bg-color($color--light_grey, $color--black); }
+	&-dark-grey,
+	&-hover-dark-grey:hover { @include bg-color($color--dark_grey, $color--white); }
+	&-pale-red,
+	&-hover-pale-red:hover { @include bg-color($color--pale_red, $color--black); }
+	&-pale-green,
+	&-hover-pale-green:hover { @include bg-color($color--pale_green, $color--black); }
+	&-pale-yellow,
+	&-hover-pale-yellow:hover { @include bg-color($color--pale_yellow, $color--black); }
+	&-pale-blue,
+	&-hover-pale-blue:hover { @include bg-color($color--pale_blue, $color--black); }
+	&-default,
+	&-hover-default:hover { @include bg-color($color--default, $color--black); }
+	&-danger,
+	&-hover-danger:hover { @include bg-color($color--danger, $color--white); }
+	&-warning,
+	&-hover-warning:hover { @include bg-color($color--warning, $color--black); }
+	&-info,
+	&-hover-info:hover { @include bg-color($color--info, $color--white); }
+	&-success,
+	&-hover-success:hover { @include bg-color($color--success, $color--white); }
+
+	&-hover {
+		&-default,
+		&-danger,
+		&-warning,
+		&-info,
+		&-success,
+		&-amber,
+		&-aqua,
+		&-blue,
+		&-light-blue,
+		&-brown,
+		&-cyan,
+		&-blue-grey,
+		&-green,
+		&-light-green,
+		&-indigo,
+		&-khaki,
+		&-lime,
+		&-orange,
+		&-deep-orange,
+		&-pink,
+		&-purple,
+		&-deep-purple,
+		&-red,
+		&-sand,
+		&-teal,
+		&-yellow,
+		&-white,
+		&-black,
+		&-grey,
+		&-light-grey,
+		&-dark-grey {
+			-webkit-transition:background-color .3s,color .15s,box-shadow .3s,opacity 0.3s;
+			transition:background-color .3s,color .15s,box-shadow .3s,opacity 0.3s;
+		}
+	}
+}

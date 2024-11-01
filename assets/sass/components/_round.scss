@@ -1,0 +1,11 @@
+.shapla-round {
+	border-radius: 4px !important;
+	
+	&-normal{ border-radius: 0 !important }
+	&-small{ border-radius: 2px !important }
+	&-medium{ border-radius: 4px !important }
+	&-large{ border-radius: 8px !important }
+	&-xlarge{ border-radius: 16px !important }
+	&-xxlarge{ border-radius: 32px !important }
+	&-jumbo{ border-radius: 64px !important }
+}

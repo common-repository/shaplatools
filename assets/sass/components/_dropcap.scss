@@ -1,0 +1,12 @@
+/* Dropcap */
+.shapla-dropcap {
+	display: block;
+	float: left;
+	text-align: center;
+	margin: 5px 15px 15px 0;
+
+	&--squared {
+		background: $accent;
+		color: #fff;
+	}
+}

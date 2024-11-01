@@ -1,0 +1,76 @@
+/* Shapla Slide*/
+.shapla-slides {
+	position: relative;
+	list-style: none;
+	overflow: hidden;
+	width: 100%;
+	padding: 0;
+	margin: 0;
+	li {
+		-webkit-backface-visibility: hidden;
+		position: absolute;
+		display: none;
+		width: 100%;
+		left: 0;
+		top: 0;
+		&:first-child {
+			position: relative;
+			display: block;
+			float: left;
+		}
+	}
+	img {
+		display: block;
+		height: auto;
+		float: left;
+		width: 100%;
+		border: 0;
+	}
+}
+.shapla-slides_nav {
+	z-index: 3;
+	position: absolute;
+	-webkit-tap-highlight-color: transparent;
+	top: 0;
+	left: 0;
+	display: block;
+	background: #FFF;
+	opacity: 0;
+	filter: alpha(opacity=1);
+	width: 48%;
+	text-indent: -9999px;
+	overflow: hidden;
+	height: 91%;
+	&.prev {
+		cursor: w-resize
+	}
+	&.next {
+		left: auto;
+		right: 0;
+		cursor: e-resize;
+	}
+}
+.shapla-slides_tabs {
+	position: absolute;
+	bottom: 10px;
+	left: 10px;
+	width: 400px;
+	max-width: 100%;
+	z-index: 1000;
+	li {
+	    display: inline-block;
+	    margin-right: 5px;
+	}
+	a {
+		display: block;
+		width: 12px;
+		height: 12px;
+		border-radius: 30px;
+		background: 0 0;
+		border: 2px solid #fff;
+		font-size: 0;
+	}
+	.shapla-slides_here a {
+		background: #fff
+	}
+}

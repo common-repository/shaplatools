@@ -1,0 +1,15 @@
+// SASS Compile Command
+// sass --watch assets/sass/admin-style.scss:assets/css/admin-style.css
+// sass --watch assets/sass/admin-style.scss:assets/css/admin-style.css --style nested
+// sass --watch assets/sass/admin-style.scss:assets/css/admin-style.css --style expanded
+// sass --watch assets/sass/admin-style.scss:assets/css/admin-style.css --style compact
+// sass --watch assets/sass/admin-style.scss:assets/css/admin-style.css --style compressed
+
+$shapla-logo-url: "../img/shapla.svg";
+$shapla-logo-2x-url: "../img/shapla-2x.svg";
+$shapla-sprite-popup-url: "../img/sprite-popup.png";
+
+@import 'admin/ui-datepicker';
+@import 'admin/media-gallery';
+@import 'admin/widget';
+@import 'admin/menu';

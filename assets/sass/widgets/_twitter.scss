@@ -1,0 +1,28 @@
+.widget_shapla_tweets {
+	ul {
+		margin: 0;
+		padding: 0;
+		list-style: none;
+
+		li {
+			margin-bottom: 8px;
+
+			&:before {
+				display: inline-block;
+			    font-family: FontAwesome;
+			    content: '\f099';
+			    margin-right: 8px;
+			}
+
+			span {
+				display: block;
+			    opacity: 0.65;
+
+				&:before {
+					content: "";
+				    margin-right: 20px;
+				}
+			}
+		}
+	}
+}

@@ -1,0 +1,2036 @@
+# Copyright (C) 2016 ShaplaTools
+# This file is distributed under the same license as the ShaplaTools package.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: ShaplaTools 1.3.0\n"
+"POT-Creation-Date: 2016-11-14 13:56+0600\n"
+"PO-Revision-Date: 2016-11-14 12:48+0600\n"
+"Last-Translator: \n"
+"Language-Team: Sayful Islam <sayful.islam001@gmail.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: assets/js/plugin-lang.php:10
+msgid "Insert Shapla Shortcode"
+msgstr ""
+
+#: assets/js/plugin-lang.php:11
+msgid "Buttons"
+msgstr ""
+
+#: assets/js/plugin-lang.php:12
+msgid "Columns"
+msgstr ""
+
+#: assets/js/plugin-lang.php:13
+msgid "Tabs"
+msgstr ""
+
+#: assets/js/plugin-lang.php:14
+msgid "Toggle"
+msgstr ""
+
+#: assets/js/plugin-lang.php:15
+msgid "Dropcap"
+msgstr ""
+
+#: assets/js/plugin-lang.php:16
+msgid "Font Icon"
+msgstr ""
+
+#: assets/js/plugin-lang.php:17
+msgid "Media Elements"
+msgstr ""
+
+#: assets/js/plugin-lang.php:18
+msgid "Widget Area"
+msgstr ""
+
+#: assets/js/plugin-lang.php:19 includes/tiny-mce/config.php:265
+msgid "Image"
+msgstr ""
+
+#: assets/js/plugin-lang.php:20
+msgid "Video"
+msgstr ""
+
+#: assets/js/plugin-lang.php:21
+msgid "Google Map"
+msgstr ""
+
+#: includes/meta-box/class-shaplatools-feature-metabox.php:50
+msgid "Extra Settings"
+msgstr ""
+
+#: includes/meta-box/class-shaplatools-feature-metabox.php:56
+msgid "Font Awesome Icon Class:"
+msgstr ""
+
+#: includes/meta-box/class-shaplatools-feature-metabox.php:57
+#, php-format
+msgid "Add %s Font Awesome %s Icon Class. Example: %s"
+msgstr ""
+
+#: includes/meta-box/class-shaplatools-nivoslide-metabox.php:43
+msgid "Slide Settings"
+msgstr ""
+
+#: includes/meta-box/class-shaplatools-nivoslide-metabox.php:45
+#, php-format
+msgid ""
+"To use this slider in your posts or pages use the following shortcode: %s%s%s"
+msgstr ""
+
+#: includes/meta-box/class-shaplatools-nivoslide-metabox.php:55
+msgid "Slider Images"
+msgstr ""
+
+#: includes/meta-box/class-shaplatools-nivoslide-metabox.php:56
+msgid "Choose slider images."
+msgstr ""
+
+#: includes/meta-box/class-shaplatools-nivoslide-metabox.php:59
+#: includes/meta-box/class-shaplatools-portfolio-metabox.php:85
+msgid "Upload Images"
+msgstr ""
+
+#: includes/meta-box/class-shaplatools-nivoslide-metabox.php:62
+msgid "Slider Image Size"
+msgstr ""
+
+#: includes/meta-box/class-shaplatools-nivoslide-metabox.php:63
+msgid ""
+"Select image size from available image size. Use full for original image "
+"size."
+msgstr ""
+
+#: includes/meta-box/class-shaplatools-nivoslide-metabox.php:70
+msgid "Slider Theme"
+msgstr ""
+
+#: includes/meta-box/class-shaplatools-nivoslide-metabox.php:71
+msgid "Use a pre-built theme. To use your own theme select \"None\"."
+msgstr ""
+
+#: includes/meta-box/class-shaplatools-nivoslide-metabox.php:76
+#: includes/tiny-mce/config.php:290 includes/tiny-mce/config.php:408
+#: widgets/widget-testimonials.php:55
+msgid "None"
+msgstr ""
+
+#: includes/meta-box/class-shaplatools-nivoslide-metabox.php:77
+msgid "Default"
+msgstr ""
+
+#: includes/meta-box/class-shaplatools-nivoslide-metabox.php:78
+msgid "Light"
+msgstr ""
+
+#: includes/meta-box/class-shaplatools-nivoslide-metabox.php:79
+msgid "Dark"
+msgstr ""
+
+#: includes/meta-box/class-shaplatools-nivoslide-metabox.php:80
+msgid "Bar"
+msgstr ""
+
+#: includes/meta-box/class-shaplatools-nivoslide-metabox.php:81
+msgid "Smoothness"
+msgstr ""
+
+#: includes/meta-box/class-shaplatools-nivoslide-metabox.php:85
+msgid "Transition Effect"
+msgstr ""
+
+#: includes/meta-box/class-shaplatools-nivoslide-metabox.php:86
+msgid "Select transition for for this slide."
+msgstr ""
+
+#: includes/meta-box/class-shaplatools-nivoslide-metabox.php:91
+msgid "random"
+msgstr ""
+
+#: includes/meta-box/class-shaplatools-nivoslide-metabox.php:92
+msgid "sliceDown"
+msgstr ""
+
+#: includes/meta-box/class-shaplatools-nivoslide-metabox.php:93
+msgid "sliceDownLeft"
+msgstr ""
+
+#: includes/meta-box/class-shaplatools-nivoslide-metabox.php:94
+msgid "sliceUp"
+msgstr ""
+
+#: includes/meta-box/class-shaplatools-nivoslide-metabox.php:95
+msgid "sliceUpLeft"
+msgstr ""
+
+#: includes/meta-box/class-shaplatools-nivoslide-metabox.php:96
+msgid "sliceUpDown"
+msgstr ""
+
+#: includes/meta-box/class-shaplatools-nivoslide-metabox.php:97
+msgid "sliceUpDownLeft"
+msgstr ""
+
+#: includes/meta-box/class-shaplatools-nivoslide-metabox.php:98
+msgid "fold"
+msgstr ""
+
+#: includes/meta-box/class-shaplatools-nivoslide-metabox.php:99
+msgid "fade"
+msgstr ""
+
+#: includes/meta-box/class-shaplatools-nivoslide-metabox.php:100
+msgid "slideInRight"
+msgstr ""
+
+#: includes/meta-box/class-shaplatools-nivoslide-metabox.php:101
+msgid "slideInLeft"
+msgstr ""
+
+#: includes/meta-box/class-shaplatools-nivoslide-metabox.php:102
+msgid "boxRandom"
+msgstr ""
+
+#: includes/meta-box/class-shaplatools-nivoslide-metabox.php:103
+msgid "boxRain"
+msgstr ""
+
+#: includes/meta-box/class-shaplatools-nivoslide-metabox.php:104
+msgid "boxRainReverse"
+msgstr ""
+
+#: includes/meta-box/class-shaplatools-nivoslide-metabox.php:105
+msgid "boxRainGrow"
+msgstr ""
+
+#: includes/meta-box/class-shaplatools-nivoslide-metabox.php:106
+msgid "boxRainGrowReverse"
+msgstr ""
+
+#: includes/meta-box/class-shaplatools-nivoslide-metabox.php:110
+msgid "Slices"
+msgstr ""
+
+#: includes/meta-box/class-shaplatools-nivoslide-metabox.php:111
+msgid "The number of slices to use in the \"Slice\" transitions (eg 15)"
+msgstr ""
+
+#: includes/meta-box/class-shaplatools-nivoslide-metabox.php:117
+msgid "boxCols"
+msgstr ""
+
+#: includes/meta-box/class-shaplatools-nivoslide-metabox.php:118
+msgid "The number of columns to use in the \"Box\" transitions (eg 8)"
+msgstr ""
+
+#: includes/meta-box/class-shaplatools-nivoslide-metabox.php:124
+msgid "boxRows"
+msgstr ""
+
+#: includes/meta-box/class-shaplatools-nivoslide-metabox.php:125
+msgid "The number of rows to use in the \"Box\" transitions (eg 4)"
+msgstr ""
+
+#: includes/meta-box/class-shaplatools-nivoslide-metabox.php:131
+msgid "Animation Speed"
+msgstr ""
+
+#: includes/meta-box/class-shaplatools-nivoslide-metabox.php:132
+msgid "The speed of the transition animation in milliseconds (eg 500)"
+msgstr ""
+
+#: includes/meta-box/class-shaplatools-nivoslide-metabox.php:138
+msgid "Pause Time"
+msgstr ""
+
+#: includes/meta-box/class-shaplatools-nivoslide-metabox.php:139
+msgid "The amount of time to show each slide in milliseconds (eg 3000)"
+msgstr ""
+
+#: includes/meta-box/class-shaplatools-nivoslide-metabox.php:145
+msgid "Start Slide"
+msgstr ""
+
+#: includes/meta-box/class-shaplatools-nivoslide-metabox.php:146
+msgid "Set which slide the slider starts from (zero based index: usually 0)"
+msgstr ""
+
+#: includes/meta-box/class-shaplatools-nivoslide-metabox.php:152
+msgid "Enable Thumbnail Navigation"
+msgstr ""
+
+#: includes/meta-box/class-shaplatools-nivoslide-metabox.php:159
+msgid "Enable Direction Navigation"
+msgstr ""
+
+#: includes/meta-box/class-shaplatools-nivoslide-metabox.php:160
+msgid "Prev & Next arrows"
+msgstr ""
+
+#: includes/meta-box/class-shaplatools-nivoslide-metabox.php:166
+msgid "Enable Control Navigation"
+msgstr ""
+
+#: includes/meta-box/class-shaplatools-nivoslide-metabox.php:167
+msgid "eg 1,2,3..."
+msgstr ""
+
+#: includes/meta-box/class-shaplatools-nivoslide-metabox.php:173
+msgid "Pause the Slider on Hover"
+msgstr ""
+
+#: includes/meta-box/class-shaplatools-nivoslide-metabox.php:180
+msgid "Manual Transitions"
+msgstr ""
+
+#: includes/meta-box/class-shaplatools-nivoslide-metabox.php:181
+msgid "Slider is always paused"
+msgstr ""
+
+#: includes/meta-box/class-shaplatools-nivoslide-metabox.php:187
+msgid "Random Start Slide"
+msgstr ""
+
+#: includes/meta-box/class-shaplatools-nivoslide-metabox.php:188
+msgid "Overrides Start Slide value"
+msgstr ""
+
+#: includes/meta-box/class-shaplatools-nivoslide-metabox.php:202
+msgid "Slide ID"
+msgstr ""
+
+#: includes/meta-box/class-shaplatools-nivoslide-metabox.php:203
+msgid "Shortcode"
+msgstr ""
+
+#: includes/meta-box/class-shaplatools-nivoslide-metabox.php:204
+msgid "Images"
+msgstr ""
+
+#: includes/meta-box/class-shaplatools-portfolio-metabox.php:65
+msgid "Portfolio Featured Image"
+msgstr ""
+
+#: includes/meta-box/class-shaplatools-portfolio-metabox.php:74
+msgid "Portfolio Settings"
+msgstr ""
+
+#: includes/meta-box/class-shaplatools-portfolio-metabox.php:75
+msgid "Here you can customize your project details."
+msgstr ""
+
+#: includes/meta-box/class-shaplatools-portfolio-metabox.php:81
+msgid "Project Images"
+msgstr ""
+
+#: includes/meta-box/class-shaplatools-portfolio-metabox.php:82
+msgid "Choose project images."
+msgstr ""
+
+#: includes/meta-box/class-shaplatools-portfolio-metabox.php:88
+msgid "Subtitle"
+msgstr ""
+
+#: includes/meta-box/class-shaplatools-portfolio-metabox.php:89
+msgid "Enter the subtitle for this portfolio item"
+msgstr ""
+
+#: includes/meta-box/class-shaplatools-portfolio-metabox.php:95
+#: includes/meta-box/class-shaplatools-testimonial-metabox.php:66
+msgid "Client Name"
+msgstr ""
+
+#: includes/meta-box/class-shaplatools-portfolio-metabox.php:96
+msgid "Enter the client name of the project"
+msgstr ""
+
+#: includes/meta-box/class-shaplatools-portfolio-metabox.php:102
+#: includes/meta-box/class-shaplatools-portfolio-metabox.php:125
+msgid "Project Date"
+msgstr ""
+
+#: includes/meta-box/class-shaplatools-portfolio-metabox.php:103
+msgid "Choose the project date."
+msgstr ""
+
+#: includes/meta-box/class-shaplatools-portfolio-metabox.php:109
+#: includes/meta-box/class-shaplatools-portfolio-metabox.php:127
+msgid "Project URL"
+msgstr ""
+
+#: includes/meta-box/class-shaplatools-portfolio-metabox.php:110
+#: includes/meta-box/class-shaplatools-testimonial-metabox.php:81
+msgid "Enter the project URL"
+msgstr ""
+
+#: includes/meta-box/class-shaplatools-portfolio-metabox.php:124
+#: includes/post-type/class-shaplatools-portfolio.php:63
+msgid "Skills"
+msgstr ""
+
+#: includes/meta-box/class-shaplatools-portfolio-metabox.php:126
+msgid "Client"
+msgstr ""
+
+#: includes/meta-box/class-shaplatools-post-metabox.php:20
+msgid "Image Gallery"
+msgstr ""
+
+#: includes/meta-box/class-shaplatools-team-metabox.php:51
+msgid "Team Member Image"
+msgstr ""
+
+#: includes/meta-box/class-shaplatools-team-metabox.php:60
+msgid "Team Member Details"
+msgstr ""
+
+#: includes/meta-box/class-shaplatools-team-metabox.php:61
+msgid "Here you can customize your team members details."
+msgstr ""
+
+#: includes/meta-box/class-shaplatools-team-metabox.php:67
+msgid "Team Member Designation"
+msgstr ""
+
+#: includes/meta-box/class-shaplatools-team-metabox.php:68
+msgid "Enter team member designation."
+msgstr ""
+
+#: includes/meta-box/class-shaplatools-team-metabox.php:74
+msgid "Member Short Description"
+msgstr ""
+
+#: includes/meta-box/class-shaplatools-team-metabox.php:75
+msgid "Enter team member short description."
+msgstr ""
+
+#: includes/meta-box/class-shaplatools-team-metabox.php:89
+msgid "Team Member Name"
+msgstr ""
+
+#: includes/meta-box/class-shaplatools-team-metabox.php:90
+msgid "Designation"
+msgstr ""
+
+#: includes/meta-box/class-shaplatools-team-metabox.php:91
+msgid "Short Description"
+msgstr ""
+
+#: includes/meta-box/class-shaplatools-team-metabox.php:92
+msgid "Member Image"
+msgstr ""
+
+#: includes/meta-box/class-shaplatools-testimonial-metabox.php:50
+#: includes/meta-box/class-shaplatools-testimonial-metabox.php:100
+msgid "Client's Avatar"
+msgstr ""
+
+#: includes/meta-box/class-shaplatools-testimonial-metabox.php:59
+msgid "Testimonial Details"
+msgstr ""
+
+#: includes/meta-box/class-shaplatools-testimonial-metabox.php:60
+msgid "Here you can customize your testimonial details."
+msgstr ""
+
+#: includes/meta-box/class-shaplatools-testimonial-metabox.php:67
+msgid "Enter the client name"
+msgstr ""
+
+#: includes/meta-box/class-shaplatools-testimonial-metabox.php:73
+msgid "Business/Site Name (optional)"
+msgstr ""
+
+#: includes/meta-box/class-shaplatools-testimonial-metabox.php:74
+msgid "Enter the client business/site name"
+msgstr ""
+
+#: includes/meta-box/class-shaplatools-testimonial-metabox.php:80
+msgid "Business/Site Link (optional)"
+msgstr ""
+
+#: includes/meta-box/class-shaplatools-testimonial-metabox.php:95
+#: widgets/widget-twitter.php:230
+msgid "Title"
+msgstr ""
+
+#: includes/meta-box/class-shaplatools-testimonial-metabox.php:96
+#: includes/settings/settings.php:125
+msgid "Testimonial"
+msgstr ""
+
+#: includes/meta-box/class-shaplatools-testimonial-metabox.php:97
+msgid "Client's Name"
+msgstr ""
+
+#: includes/meta-box/class-shaplatools-testimonial-metabox.php:98
+msgid "Business/Site"
+msgstr ""
+
+#: includes/meta-box/class-shaplatools-testimonial-metabox.php:99
+msgid "Link"
+msgstr ""
+
+#: includes/post-type/class-shaplatools-feature.php:23
+msgctxt "Post Type General Name"
+msgid "Features"
+msgstr ""
+
+#: includes/post-type/class-shaplatools-feature.php:24
+msgctxt "Post Type Singular Name"
+msgid "Feature"
+msgstr ""
+
+#: includes/post-type/class-shaplatools-feature.php:25
+msgid "Features"
+msgstr ""
+
+#: includes/post-type/class-shaplatools-feature.php:26
+msgid "Parent Feature:"
+msgstr ""
+
+#: includes/post-type/class-shaplatools-feature.php:27
+msgid "All Features"
+msgstr ""
+
+#: includes/post-type/class-shaplatools-feature.php:28
+msgid "View Feature"
+msgstr ""
+
+#: includes/post-type/class-shaplatools-feature.php:29
+msgid "Add New Feature"
+msgstr ""
+
+#: includes/post-type/class-shaplatools-feature.php:30
+#: includes/post-type/class-shaplatools-portfolio.php:26
+#: includes/post-type/class-shaplatools-slide.php:40
+#: includes/post-type/class-shaplatools-team.php:31
+#: includes/post-type/class-shaplatools-testimonial.php:37
+msgid "Add New"
+msgstr ""
+
+#: includes/post-type/class-shaplatools-feature.php:31
+msgid "Edit Feature"
+msgstr ""
+
+#: includes/post-type/class-shaplatools-feature.php:32
+msgid "Update Feature"
+msgstr ""
+
+#: includes/post-type/class-shaplatools-feature.php:33
+msgid "Search Feature"
+msgstr ""
+
+#: includes/post-type/class-shaplatools-feature.php:34
+#: includes/post-type/class-shaplatools-slide.php:46
+#: includes/post-type/class-shaplatools-testimonial.php:41
+msgid "Not found"
+msgstr ""
+
+#: includes/post-type/class-shaplatools-feature.php:35
+#: includes/post-type/class-shaplatools-slide.php:47
+#: includes/post-type/class-shaplatools-testimonial.php:42
+msgid "Not found in Trash"
+msgstr ""
+
+#: includes/post-type/class-shaplatools-feature.php:38
+msgid "feature"
+msgstr ""
+
+#: includes/post-type/class-shaplatools-feature.php:39
+msgid "Add features"
+msgstr ""
+
+#: includes/post-type/class-shaplatools-portfolio.php:24
+#: includes/post-type/class-shaplatools-portfolio.php:25
+#: includes/settings/settings.php:103
+msgid "Portfolio"
+msgstr ""
+
+#: includes/post-type/class-shaplatools-portfolio.php:27
+msgid "Add New Portfolio"
+msgstr ""
+
+#: includes/post-type/class-shaplatools-portfolio.php:28
+msgid "Edit Portfolio"
+msgstr ""
+
+#: includes/post-type/class-shaplatools-portfolio.php:29
+msgid "New Portfolio"
+msgstr ""
+
+#: includes/post-type/class-shaplatools-portfolio.php:30
+msgid "View Portfolio"
+msgstr ""
+
+#: includes/post-type/class-shaplatools-portfolio.php:31
+msgid "Search Portfolio"
+msgstr ""
+
+#: includes/post-type/class-shaplatools-portfolio.php:32
+msgid "No Portfolios found"
+msgstr ""
+
+#: includes/post-type/class-shaplatools-portfolio.php:33
+msgid "No Portfolios found in trash"
+msgstr ""
+
+#: includes/post-type/class-shaplatools-portfolio.php:64
+msgid "Skill"
+msgstr ""
+
+#: includes/post-type/class-shaplatools-slide.php:33
+msgctxt "Post Type General Name"
+msgid "Slides"
+msgstr ""
+
+#: includes/post-type/class-shaplatools-slide.php:34
+msgctxt "Post Type Singular Name"
+msgid "Slide"
+msgstr ""
+
+#: includes/post-type/class-shaplatools-slide.php:35
+#: includes/post-type/class-shaplatools-slide.php:36
+#: includes/settings/settings.php:92
+msgid "Slide"
+msgstr ""
+
+#: includes/post-type/class-shaplatools-slide.php:37
+msgid "Parent Slide:"
+msgstr ""
+
+#: includes/post-type/class-shaplatools-slide.php:38
+msgid "All Slides"
+msgstr ""
+
+#: includes/post-type/class-shaplatools-slide.php:39
+msgid "Add New Slide"
+msgstr ""
+
+#: includes/post-type/class-shaplatools-slide.php:41
+msgid "New Slide"
+msgstr ""
+
+#: includes/post-type/class-shaplatools-slide.php:42
+msgid "Edit Slide"
+msgstr ""
+
+#: includes/post-type/class-shaplatools-slide.php:43
+msgid "Update Slide"
+msgstr ""
+
+#: includes/post-type/class-shaplatools-slide.php:44
+msgid "View Slide"
+msgstr ""
+
+#: includes/post-type/class-shaplatools-slide.php:45
+msgid "Search Slide"
+msgstr ""
+
+#: includes/post-type/class-shaplatools-slide.php:50
+msgid "slide"
+msgstr ""
+
+#: includes/post-type/class-shaplatools-slide.php:51
+msgid "Create slide for your site"
+msgstr ""
+
+#: includes/post-type/class-shaplatools-team.php:29
+#: includes/post-type/class-shaplatools-team.php:30
+#: includes/settings/settings.php:114
+msgid "Team"
+msgstr ""
+
+#: includes/post-type/class-shaplatools-team.php:32
+msgid "Add New Team Member"
+msgstr ""
+
+#: includes/post-type/class-shaplatools-team.php:33
+msgid "Edit Team Member"
+msgstr ""
+
+#: includes/post-type/class-shaplatools-team.php:34
+msgid "New Team Member"
+msgstr ""
+
+#: includes/post-type/class-shaplatools-team.php:35
+msgid "View Team Member"
+msgstr ""
+
+#: includes/post-type/class-shaplatools-team.php:36
+msgid "Search Team Member"
+msgstr ""
+
+#: includes/post-type/class-shaplatools-team.php:37
+msgid "No Team Member found"
+msgstr ""
+
+#: includes/post-type/class-shaplatools-team.php:38
+msgid "No Team Member in trash"
+msgstr ""
+
+#: includes/post-type/class-shaplatools-testimonial.php:30
+msgctxt "Post Type General Name"
+msgid "Testimonials"
+msgstr ""
+
+#: includes/post-type/class-shaplatools-testimonial.php:31
+msgctxt "Post Type Singular Name"
+msgid "Testimonial"
+msgstr ""
+
+#: includes/post-type/class-shaplatools-testimonial.php:32
+msgid "Testimonials"
+msgstr ""
+
+#: includes/post-type/class-shaplatools-testimonial.php:33
+msgid "Parent Testimonial:"
+msgstr ""
+
+#: includes/post-type/class-shaplatools-testimonial.php:34
+msgid "All Testimonials"
+msgstr ""
+
+#: includes/post-type/class-shaplatools-testimonial.php:35
+msgid "View Testimonial"
+msgstr ""
+
+#: includes/post-type/class-shaplatools-testimonial.php:36
+msgid "Add New Testimonial"
+msgstr ""
+
+#: includes/post-type/class-shaplatools-testimonial.php:38
+msgid "Edit Testimonial"
+msgstr ""
+
+#: includes/post-type/class-shaplatools-testimonial.php:39
+msgid "Update Testimonial"
+msgstr ""
+
+#: includes/post-type/class-shaplatools-testimonial.php:40
+msgid "Search Testimonial"
+msgstr ""
+
+#: includes/post-type/class-shaplatools-testimonial.php:45
+msgid "testimonials"
+msgstr ""
+
+#: includes/post-type/class-shaplatools-testimonial.php:46
+msgid "Post Type Description"
+msgstr ""
+
+#: includes/settings/settings.php:7
+msgid "ShaplaTools Settings"
+msgstr ""
+
+#: includes/settings/settings.php:8
+msgid "ShaplaTools"
+msgstr ""
+
+#: includes/settings/settings.php:17
+msgid "General"
+msgstr ""
+
+#: includes/settings/settings.php:21
+msgid "Custom Post Type"
+msgstr ""
+
+#: includes/settings/settings.php:25
+msgid "Social Link"
+msgstr ""
+
+#: includes/settings/settings.php:32
+msgid "Google Analytics ID"
+msgstr ""
+
+#: includes/settings/settings.php:34
+#, php-format
+msgid ""
+"In order to use Google Analytics service, go to %s Google Analytics %s and "
+"click Access Google Analytics and register for a service for your site. You "
+"will get a Google Analytics ID like this formate (UA-XXXXX-X), paste this ID "
+"in Google Analytics ID field and click save."
+msgstr ""
+
+#: includes/settings/settings.php:44
+msgid "Google Maps API key"
+msgstr ""
+
+#: includes/settings/settings.php:46
+#, php-format
+msgid ""
+"An API key is required for Google Maps shortcode to work. Here is how you "
+"can %1$s get a key %2$s."
+msgstr ""
+
+#: includes/settings/settings.php:56
+msgid "Autocomplete Search"
+msgstr ""
+
+#: includes/settings/settings.php:58
+#, php-format
+msgid ""
+"Autocomplete search form use %s twitter typeahead.js JavaScript library %s "
+"for AJAX search. In order to use this feature select \"WordPress Default "
+"Search\" to enable AJAX search for WordPress default search or select "
+"\"WooCommerce Product Search\" to enable WooCommerce products search."
+msgstr ""
+
+#: includes/settings/settings.php:64
+msgid "Disabled"
+msgstr ""
+
+#: includes/settings/settings.php:65
+msgid "WordPress Default Search"
+msgstr ""
+
+#: includes/settings/settings.php:66
+msgid "WooCommerce Product Search"
+msgstr ""
+
+#: includes/settings/settings.php:74
+msgid "Retina graphics for your website"
+msgstr ""
+
+#: includes/settings/settings.php:76
+#, php-format
+msgid ""
+"To serve high-resolution images to devices with retina displays. This plugin "
+"will use open source script %s retina.js JavaScript library %s and for using "
+"retina.js script, a higher quality version of image will be created and "
+"stored with @2x added to the filename when an image is uploaded."
+msgstr ""
+
+#: includes/settings/settings.php:82
+msgid "Load retina.js JavaScript library"
+msgstr ""
+
+#: includes/settings/settings.php:83
+msgid "Enable retina image"
+msgstr ""
+
+#: includes/settings/settings.php:95
+msgid "Enable Slide Post Type"
+msgstr ""
+
+#: includes/settings/settings.php:96
+msgid "Enable Slide Default Metabox"
+msgstr ""
+
+#: includes/settings/settings.php:106
+msgid "Enable Portfolio Post Type"
+msgstr ""
+
+#: includes/settings/settings.php:107
+msgid "Enable Portfolio Default Metabox"
+msgstr ""
+
+#: includes/settings/settings.php:117
+msgid "Enable Team Post Type"
+msgstr ""
+
+#: includes/settings/settings.php:118
+msgid "Enable Team Default Metabox"
+msgstr ""
+
+#: includes/settings/settings.php:128
+msgid "Enable Testimonial Post Type"
+msgstr ""
+
+#: includes/settings/settings.php:129
+msgid "Enable Testimonial Default Metabox"
+msgstr ""
+
+#: includes/settings/settings.php:136
+msgid "Feature"
+msgstr ""
+
+#: includes/settings/settings.php:139
+msgid "Enable Feature Post Type"
+msgstr ""
+
+#: includes/settings/settings.php:140
+msgid "Enable Feature Default Metabox"
+msgstr ""
+
+#: includes/settings/settings.php:149
+msgid "Android"
+msgstr ""
+
+#: includes/settings/settings.php:155
+msgid "Apple"
+msgstr ""
+
+#: includes/settings/settings.php:161
+msgid "Behance"
+msgstr ""
+
+#: includes/settings/settings.php:168
+msgid "Bitbucket"
+msgstr ""
+
+#: includes/settings/settings.php:175
+msgid "CodePen"
+msgstr ""
+
+#: includes/settings/settings.php:183
+msgid "Deviant Art"
+msgstr ""
+
+#: includes/settings/settings.php:191
+msgid "Dribbble"
+msgstr ""
+
+#: includes/settings/settings.php:199
+msgid "Dropbox"
+msgstr ""
+
+#: includes/settings/settings.php:206
+msgid "Facebook"
+msgstr ""
+
+#: includes/settings/settings.php:214
+msgid "Flickr"
+msgstr ""
+
+#: includes/settings/settings.php:222
+msgid "Foursquare"
+msgstr ""
+
+#: includes/settings/settings.php:230
+msgid "GitHub"
+msgstr ""
+
+#: includes/settings/settings.php:238
+msgid "Google+"
+msgstr ""
+
+#: includes/settings/settings.php:246
+msgid "Instagram"
+msgstr ""
+
+#: includes/settings/settings.php:254
+msgid "LinkedIn"
+msgstr ""
+
+#: includes/settings/settings.php:262
+msgid "Mail"
+msgstr ""
+
+#: includes/settings/settings.php:270
+msgid "Pinterest"
+msgstr ""
+
+#: includes/settings/settings.php:278
+msgid "RSS"
+msgstr ""
+
+#: includes/settings/settings.php:286
+msgid "Skype"
+msgstr ""
+
+#: includes/settings/settings.php:293
+msgid "Stack Exchange"
+msgstr ""
+
+#: includes/settings/settings.php:301
+msgid "Stack Overflow"
+msgstr ""
+
+#: includes/settings/settings.php:309
+msgid "Trello"
+msgstr ""
+
+#: includes/settings/settings.php:317
+msgid "Tumblr"
+msgstr ""
+
+#: includes/settings/settings.php:325
+msgid "Twitter"
+msgstr ""
+
+#: includes/settings/settings.php:333
+msgid "Vimeo"
+msgstr ""
+
+#: includes/settings/settings.php:341
+msgid "Vine"
+msgstr ""
+
+#: includes/settings/settings.php:349
+msgid "Windows"
+msgstr ""
+
+#: includes/settings/settings.php:356
+msgid "WordPress"
+msgstr ""
+
+#: includes/settings/settings.php:364
+msgid "Xing"
+msgstr ""
+
+#: includes/settings/settings.php:370
+msgid "YouTube"
+msgstr ""
+
+#: includes/tiny-mce/ShaplaTools_TinyMCE.php:100
+msgid "Run In"
+msgstr ""
+
+#: includes/tiny-mce/ShaplaTools_TinyMCE.php:105
+msgid "Alert"
+msgstr ""
+
+#: includes/tiny-mce/ShaplaTools_TinyMCE.php:108
+#: includes/tiny-mce/config.php:65 includes/tiny-mce/config.php:82
+msgid "Green"
+msgstr ""
+
+#: includes/tiny-mce/ShaplaTools_TinyMCE.php:115
+#: includes/tiny-mce/config.php:67 includes/tiny-mce/config.php:84
+msgid "Blue"
+msgstr ""
+
+#: includes/tiny-mce/ShaplaTools_TinyMCE.php:122
+#: includes/tiny-mce/config.php:68 includes/tiny-mce/config.php:85
+msgid "Red"
+msgstr ""
+
+#: includes/tiny-mce/ShaplaTools_TinyMCE.php:129
+msgid "Yellow"
+msgstr ""
+
+#: includes/tiny-mce/ShaplaTools_TinyMCE.php:136
+#: includes/tiny-mce/config.php:69 includes/tiny-mce/config.php:86
+msgid "Orange"
+msgstr ""
+
+#: includes/tiny-mce/ShaplaTools_TinyMCE.php:143
+#: includes/tiny-mce/config.php:63 includes/tiny-mce/config.php:80
+msgid "Grey"
+msgstr ""
+
+#: includes/tiny-mce/ShaplaTools_TinyMCE.php:219
+msgid "Insert Horizontal Line"
+msgstr ""
+
+#: includes/tiny-mce/ShaplaTools_TinyMCE.php:220
+msgid "Horizontal line"
+msgstr ""
+
+#: includes/tiny-mce/ShaplaTools_TinyMCE.php:221
+msgid "Style"
+msgstr ""
+
+#: includes/tiny-mce/ShaplaTools_TinyMCE.php:222
+msgid "Plain"
+msgstr ""
+
+#: includes/tiny-mce/ShaplaTools_TinyMCE.php:223
+msgid "Strong"
+msgstr ""
+
+#: includes/tiny-mce/ShaplaTools_TinyMCE.php:224
+msgid "Double"
+msgstr ""
+
+#: includes/tiny-mce/ShaplaTools_TinyMCE.php:225
+msgid "Dashed"
+msgstr ""
+
+#: includes/tiny-mce/ShaplaTools_TinyMCE.php:226
+msgid "Dotted"
+msgstr ""
+
+#: includes/tiny-mce/config.php:5
+msgid "Insert Columns Shortcode"
+msgstr ""
+
+#: includes/tiny-mce/config.php:13
+msgid "Column Grid"
+msgstr ""
+
+#: includes/tiny-mce/config.php:14
+msgid "Select the grid, ie width of the column."
+msgstr ""
+
+#: includes/tiny-mce/config.php:16
+msgid "One columns"
+msgstr ""
+
+#: includes/tiny-mce/config.php:17
+msgid "Two columns"
+msgstr ""
+
+#: includes/tiny-mce/config.php:18
+msgid "Three columns"
+msgstr ""
+
+#: includes/tiny-mce/config.php:19
+msgid "Four columns"
+msgstr ""
+
+#: includes/tiny-mce/config.php:20
+msgid "Five columns"
+msgstr ""
+
+#: includes/tiny-mce/config.php:21
+msgid "Six columns"
+msgstr ""
+
+#: includes/tiny-mce/config.php:22
+msgid "Seven columns"
+msgstr ""
+
+#: includes/tiny-mce/config.php:23
+msgid "Eight columns"
+msgstr ""
+
+#: includes/tiny-mce/config.php:24
+msgid "Nine columns"
+msgstr ""
+
+#: includes/tiny-mce/config.php:25
+msgid "Ten columns"
+msgstr ""
+
+#: includes/tiny-mce/config.php:26
+msgid "Eleven columns"
+msgstr ""
+
+#: includes/tiny-mce/config.php:27
+msgid "Twelve columns"
+msgstr ""
+
+#: includes/tiny-mce/config.php:33
+msgid "Column Content"
+msgstr ""
+
+#: includes/tiny-mce/config.php:34
+msgid "Add the column content."
+msgstr ""
+
+#: includes/tiny-mce/config.php:38
+msgid "Add Column"
+msgstr ""
+
+#: includes/tiny-mce/config.php:48
+msgid "Button URL"
+msgstr ""
+
+#: includes/tiny-mce/config.php:49
+msgid "Add the button&lsquo;s url e.g. http://example.com"
+msgstr ""
+
+#: includes/tiny-mce/config.php:54
+msgid "Button&lsquo;s Text"
+msgstr ""
+
+#: includes/tiny-mce/config.php:55
+msgid "Add the button&lsquo;s text"
+msgstr ""
+
+#: includes/tiny-mce/config.php:59
+msgid "Button Color"
+msgstr ""
+
+#: includes/tiny-mce/config.php:60
+msgid "Select the button color"
+msgstr ""
+
+#: includes/tiny-mce/config.php:64 includes/tiny-mce/config.php:81
+msgid "Black"
+msgstr ""
+
+#: includes/tiny-mce/config.php:66 includes/tiny-mce/config.php:83
+msgid "Light Blue"
+msgstr ""
+
+#: includes/tiny-mce/config.php:70 includes/tiny-mce/config.php:87
+msgid "Purple"
+msgstr ""
+
+#: includes/tiny-mce/config.php:71 includes/tiny-mce/config.php:88
+msgid "White"
+msgstr ""
+
+#: includes/tiny-mce/config.php:76
+msgid "Button Hover Color"
+msgstr ""
+
+#: includes/tiny-mce/config.php:77
+msgid "Select the button color on hover"
+msgstr ""
+
+#: includes/tiny-mce/config.php:93
+msgid "Button Shape"
+msgstr ""
+
+#: includes/tiny-mce/config.php:94
+msgid "Select the button shape"
+msgstr ""
+
+#: includes/tiny-mce/config.php:97 includes/tiny-mce/config.php:122
+#: includes/tiny-mce/config.php:165 includes/tiny-mce/config.php:202
+#: includes/tiny-mce/config.php:238
+msgid "Normal"
+msgstr ""
+
+#: includes/tiny-mce/config.php:98
+msgid "Small Round"
+msgstr ""
+
+#: includes/tiny-mce/config.php:99
+msgid "Medium Round"
+msgstr ""
+
+#: includes/tiny-mce/config.php:100
+msgid "Large Round"
+msgstr ""
+
+#: includes/tiny-mce/config.php:101
+msgid "Extra Large Round"
+msgstr ""
+
+#: includes/tiny-mce/config.php:106
+msgid "Button Size"
+msgstr ""
+
+#: includes/tiny-mce/config.php:107
+msgid "Select the button&lsquo;s size"
+msgstr ""
+
+#: includes/tiny-mce/config.php:110
+msgid "Tiny"
+msgstr ""
+
+#: includes/tiny-mce/config.php:111
+msgid "Small"
+msgstr ""
+
+#: includes/tiny-mce/config.php:112
+msgid "Medium"
+msgstr ""
+
+#: includes/tiny-mce/config.php:113
+msgid "Large"
+msgstr ""
+
+#: includes/tiny-mce/config.php:114
+msgid "Extra Large"
+msgstr ""
+
+#: includes/tiny-mce/config.php:119
+msgid "Button Type"
+msgstr ""
+
+#: includes/tiny-mce/config.php:120
+msgid "Select the button&lsquo;s type"
+msgstr ""
+
+#: includes/tiny-mce/config.php:123 includes/tiny-mce/config.php:166
+#: includes/tiny-mce/config.php:203
+msgid "Stroke"
+msgstr ""
+
+#: includes/tiny-mce/config.php:129
+msgid "Button Icon"
+msgstr ""
+
+#: includes/tiny-mce/config.php:130 includes/tiny-mce/config.php:329
+msgid "Choose an icon"
+msgstr ""
+
+#: includes/tiny-mce/config.php:134
+msgid "Font Order"
+msgstr ""
+
+#: includes/tiny-mce/config.php:135
+msgid "Select if the icon should display before text or after text."
+msgstr ""
+
+#: includes/tiny-mce/config.php:138
+msgid "Before Text"
+msgstr ""
+
+#: includes/tiny-mce/config.php:139
+msgid "After Text"
+msgstr ""
+
+#: includes/tiny-mce/config.php:144
+msgid "Button Target"
+msgstr ""
+
+#: includes/tiny-mce/config.php:145
+msgid "_self = open in same window. _blank = open in new window"
+msgstr ""
+
+#: includes/tiny-mce/config.php:148
+msgid "_self"
+msgstr ""
+
+#: includes/tiny-mce/config.php:149
+msgid "_blank"
+msgstr ""
+
+#: includes/tiny-mce/config.php:154
+msgid "Insert Button Shortcode"
+msgstr ""
+
+#: includes/tiny-mce/config.php:162
+msgid "Toggle Style"
+msgstr ""
+
+#: includes/tiny-mce/config.php:163
+msgid "Select the toggle&lsquo;s style"
+msgstr ""
+
+#: includes/tiny-mce/config.php:171
+msgid "Toggle Content Title"
+msgstr ""
+
+#: includes/tiny-mce/config.php:172
+msgid "Add the title that will go above the toggle content"
+msgstr ""
+
+#: includes/tiny-mce/config.php:178
+msgid "Toggle Content"
+msgstr ""
+
+#: includes/tiny-mce/config.php:179
+msgid "Add the toggle content. Will accept HTML"
+msgstr ""
+
+#: includes/tiny-mce/config.php:183
+msgid "Toggle State"
+msgstr ""
+
+#: includes/tiny-mce/config.php:184
+msgid "Select the state of the toggle on page load"
+msgstr ""
+
+#: includes/tiny-mce/config.php:186
+msgid "Open"
+msgstr ""
+
+#: includes/tiny-mce/config.php:187
+msgid "Closed"
+msgstr ""
+
+#: includes/tiny-mce/config.php:192
+msgid "Insert Toggle Content Shortcode"
+msgstr ""
+
+#: includes/tiny-mce/config.php:199
+msgid "Tabs Style"
+msgstr ""
+
+#: includes/tiny-mce/config.php:200
+msgid "Select the tabs&lsquo;s style"
+msgstr ""
+
+#: includes/tiny-mce/config.php:209
+msgid "Insert Tab Shortcode"
+msgstr ""
+
+#: includes/tiny-mce/config.php:215
+msgid "Tab Title"
+msgstr ""
+
+#: includes/tiny-mce/config.php:216
+msgid "Title of the tab"
+msgstr ""
+
+#: includes/tiny-mce/config.php:221
+msgid "Tab Content"
+msgstr ""
+
+#: includes/tiny-mce/config.php:222
+msgid "Add the tabs content"
+msgstr ""
+
+#: includes/tiny-mce/config.php:226
+msgid "Add Tab"
+msgstr ""
+
+#: includes/tiny-mce/config.php:235
+msgid "Dropcap Style"
+msgstr ""
+
+#: includes/tiny-mce/config.php:236
+msgid "Select the dropcap&lsquo;s style"
+msgstr ""
+
+#: includes/tiny-mce/config.php:239
+msgid "Squared"
+msgstr ""
+
+#: includes/tiny-mce/config.php:245
+msgid "Dropcap Text"
+msgstr ""
+
+#: includes/tiny-mce/config.php:246
+msgid "Enter the dropcap&lsquo;s text"
+msgstr ""
+
+#: includes/tiny-mce/config.php:251 includes/tiny-mce/config.php:349
+msgid "Font Size"
+msgstr ""
+
+#: includes/tiny-mce/config.php:252
+msgid "Enter the font&lsquo;s size in px, em or %"
+msgstr ""
+
+#: includes/tiny-mce/config.php:256
+msgid "Insert Dropcap Shortcode"
+msgstr ""
+
+#: includes/tiny-mce/config.php:266
+msgid "Choose your image"
+msgstr ""
+
+#: includes/tiny-mce/config.php:270
+msgid "Image Filter"
+msgstr ""
+
+#: includes/tiny-mce/config.php:271
+msgid "Select the CSS3 image filter style"
+msgstr ""
+
+#: includes/tiny-mce/config.php:274
+msgid "No Filter"
+msgstr ""
+
+#: includes/tiny-mce/config.php:275
+msgid "Grayscale"
+msgstr ""
+
+#: includes/tiny-mce/config.php:276
+msgid "Sepia"
+msgstr ""
+
+#: includes/tiny-mce/config.php:277
+msgid "Blur"
+msgstr ""
+
+#: includes/tiny-mce/config.php:278
+msgid "Hue Rotate"
+msgstr ""
+
+#: includes/tiny-mce/config.php:279
+msgid "Contrast"
+msgstr ""
+
+#: includes/tiny-mce/config.php:280
+msgid "Brightness"
+msgstr ""
+
+#: includes/tiny-mce/config.php:281
+msgid "Invert"
+msgstr ""
+
+#: includes/tiny-mce/config.php:286
+msgid "Alignment"
+msgstr ""
+
+#: includes/tiny-mce/config.php:287
+msgid "Choose Image Alignment"
+msgstr ""
+
+#: includes/tiny-mce/config.php:291
+msgid "Left"
+msgstr ""
+
+#: includes/tiny-mce/config.php:292
+msgid "Center"
+msgstr ""
+
+#: includes/tiny-mce/config.php:293
+msgid "Right"
+msgstr ""
+
+#: includes/tiny-mce/config.php:299 includes/tiny-mce/config.php:334
+msgid "URL"
+msgstr ""
+
+#: includes/tiny-mce/config.php:300
+msgid "Enter the URL where image should be linked (optional)"
+msgstr ""
+
+#: includes/tiny-mce/config.php:304
+msgid "Insert Image Shortcode"
+msgstr ""
+
+#: includes/tiny-mce/config.php:314 includes/tiny-mce/shortcode-class.php:147
+msgid "Choose Video"
+msgstr ""
+
+#: includes/tiny-mce/config.php:315
+msgid ""
+"Either upload a new video, choose an existing video from your media library "
+"or link to a video by URL. <br><br>"
+msgstr ""
+
+#: includes/tiny-mce/config.php:315
+#, php-format
+msgid "A list of all shortcode video services can be found on %s.<br>"
+msgstr ""
+
+#: includes/tiny-mce/config.php:319
+msgid "Insert Video Shortcode"
+msgstr ""
+
+#: includes/tiny-mce/config.php:328
+msgid "Icon"
+msgstr ""
+
+#: includes/tiny-mce/config.php:335
+msgid "Enter the URL where icon should be linked (optional)"
+msgstr ""
+
+#: includes/tiny-mce/config.php:339
+msgid "Open in new window"
+msgstr ""
+
+#: includes/tiny-mce/config.php:340
+msgid "Do you want to open the link in a new window?"
+msgstr ""
+
+#: includes/tiny-mce/config.php:342
+msgid "No"
+msgstr ""
+
+#: includes/tiny-mce/config.php:343
+msgid "Yes"
+msgstr ""
+
+#: includes/tiny-mce/config.php:350
+msgid "Enter the icon&lsquo;s font size in px, em or %"
+msgstr ""
+
+#: includes/tiny-mce/config.php:354
+msgid "Insert Icon Shortcode"
+msgstr ""
+
+#: includes/tiny-mce/config.php:363
+msgid "Latitude"
+msgstr ""
+
+#: includes/tiny-mce/config.php:364
+msgid "Enter the place latitude coordinate. E.g.: 37.42200"
+msgstr ""
+
+#: includes/tiny-mce/config.php:369
+msgid "Longitude"
+msgstr ""
+
+#: includes/tiny-mce/config.php:370
+#, php-format
+msgid ""
+"Enter the place longitude coordinate. E.g.: -122.08395. You may find "
+"longitude and latitude <a href=\"%1$s\" target=\"_blank\">here</a>."
+msgstr ""
+
+#: includes/tiny-mce/config.php:375 widgets/widget-fb_like_box.php:135
+msgid "Width"
+msgstr ""
+
+#: includes/tiny-mce/config.php:376
+msgid "Enter the map width."
+msgstr ""
+
+#: includes/tiny-mce/config.php:381 widgets/widget-fb_like_box.php:140
+msgid "Height"
+msgstr ""
+
+#: includes/tiny-mce/config.php:382
+msgid "Enter the map height."
+msgstr ""
+
+#: includes/tiny-mce/config.php:387
+msgid "Map Type"
+msgstr ""
+
+#: includes/tiny-mce/config.php:388
+msgid "Select the map type for Google Maps."
+msgstr ""
+
+#: includes/tiny-mce/config.php:390
+msgid "Roadmap"
+msgstr ""
+
+#: includes/tiny-mce/config.php:391
+msgid "Satellite"
+msgstr ""
+
+#: includes/tiny-mce/config.php:392
+msgid "Hybrid"
+msgstr ""
+
+#: includes/tiny-mce/config.php:393
+msgid "Terrain"
+msgstr ""
+
+#: includes/tiny-mce/config.php:399
+msgid "Zoom Level"
+msgstr ""
+
+#: includes/tiny-mce/config.php:400
+msgid ""
+"Enter the map zoom level between 0-21. Highest value zooms in and lowest "
+"zooms out."
+msgstr ""
+
+#: includes/tiny-mce/config.php:405
+msgid "Map Style"
+msgstr ""
+
+#: includes/tiny-mce/config.php:406
+msgid "Select from a list of predefined map styles."
+msgstr ""
+
+#: includes/tiny-mce/config.php:409
+msgid "Pale Dawn"
+msgstr ""
+
+#: includes/tiny-mce/config.php:410
+msgid "Subtle Grayscale"
+msgstr ""
+
+#: includes/tiny-mce/config.php:411
+msgid "Bright & Bubbly"
+msgstr ""
+
+#: includes/tiny-mce/config.php:412
+msgid "Greyscale"
+msgstr ""
+
+#: includes/tiny-mce/config.php:413
+msgid "Mixed"
+msgstr ""
+
+#: includes/tiny-mce/config.php:418
+msgid "Insert Google Map Shortcode"
+msgstr ""
+
+#: includes/tiny-mce/shapla-shortcodes.php:85
+msgid "Insert Shortcode"
+msgstr ""
+
+#: includes/tiny-mce/shortcode-class.php:24
+msgid "Config file does not exist"
+msgstr ""
+
+#: includes/tiny-mce/shortcode-class.php:139
+msgid "Choose Image"
+msgstr ""
+
+#: shaplatools.php:353
+msgid "Upload or Choose Your Custom Video File"
+msgstr ""
+
+#: shaplatools.php:354
+msgid "Upload or Choose Your Custom Image File"
+msgstr ""
+
+#: shaplatools.php:385
+msgid "Settings"
+msgstr ""
+
+#: shortcodes/class-shaplatools-components-shortcode.php:288
+msgid "Title Goes Here"
+msgstr ""
+
+#: shortcodes/class-shaplatools-components-shortcode.php:345
+msgid "Tab"
+msgstr ""
+
+#: templates/shapla_portfolio.php:15
+msgid "All"
+msgstr ""
+
+#: widgets/TwitterWP.php:219
+msgid "ERROR: You need to provide a user."
+msgstr ""
+
+#: widgets/TwitterWP.php:332
+msgid "ERROR: Could not retrieve bearer token."
+msgstr ""
+
+#: widgets/TwitterWP.php:702
+msgid "ERROR: Missing Twitter App credentials."
+msgstr ""
+
+#: widgets/widget-contact.php:10
+msgid "Shapla Contact Form"
+msgstr ""
+
+#: widgets/widget-contact.php:11
+msgid "A simple AJAX contact form."
+msgstr ""
+
+#: widgets/widget-contact.php:36
+msgid "Name"
+msgstr ""
+
+#: widgets/widget-contact.php:37
+msgid "Email"
+msgstr ""
+
+#: widgets/widget-contact.php:38
+msgid "Message"
+msgstr ""
+
+#: widgets/widget-contact.php:42
+msgid "Send Message"
+msgstr ""
+
+#: widgets/widget-contact.php:95
+msgid "Your cannot resend message within "
+msgstr ""
+
+#: widgets/widget-contact.php:95
+msgid " minute(s)."
+msgstr ""
+
+#: widgets/widget-contact.php:101
+msgid "Your name should be at least 3 characters."
+msgstr ""
+
+#: widgets/widget-contact.php:107
+msgid "You entered an invalid email address."
+msgstr ""
+
+#: widgets/widget-contact.php:113
+msgid "Your message should be at least 15 characters."
+msgstr ""
+
+#: widgets/widget-contact.php:122
+msgid "Someone sent you a message from "
+msgstr ""
+
+#: widgets/widget-contact.php:126
+msgid "This mail is sent via contact form "
+msgstr ""
+
+#: widgets/widget-contact.php:138
+msgid "Thanks, your email was sent successfully."
+msgstr ""
+
+#: widgets/widget-contact.php:142
+msgid "Please check the error bellow."
+msgstr ""
+
+#: widgets/widget-contact.php:166
+msgid "Send a Direct Message"
+msgstr ""
+
+#: widgets/widget-contact.php:170 widgets/widget-dribbble.php:140
+#: widgets/widget-fb_like_box.php:120 widgets/widget-flickr.php:135
+#: widgets/widget-instagram.php:142 widgets/widget-testimonials.php:46
+msgid "Title:"
+msgstr ""
+
+#: widgets/widget-contact.php:174
+msgid "Contact Form Email Address:"
+msgstr ""
+
+#: widgets/widget-contact.php:176
+msgid ""
+"Enter the email address where you would like to receive emails from the "
+"contact form."
+msgstr ""
+
+#: widgets/widget-dribbble.php:16
+msgid "Shapla Dribbble Shots"
+msgstr ""
+
+#: widgets/widget-dribbble.php:19
+msgid "Display your latest Dribbble shots."
+msgstr ""
+
+#: widgets/widget-dribbble.php:101
+msgctxt "Dribbble username error message"
+msgid "Please check your dribbble username"
+msgstr ""
+
+#: widgets/widget-dribbble.php:129
+msgid "Dribbble Shots"
+msgstr ""
+
+#: widgets/widget-dribbble.php:145
+msgid "Username:"
+msgstr ""
+
+#: widgets/widget-dribbble.php:150
+msgid "Number of shots to show:"
+msgstr ""
+
+#: widgets/widget-dribbble.php:156
+msgid "Open links in new window?"
+msgstr ""
+
+#: widgets/widget-fb_like_box.php:11
+msgid "Shapla Facebook Like Box"
+msgstr ""
+
+#: widgets/widget-fb_like_box.php:12
+msgid "Facebook Like Box only for Facebook Pages."
+msgstr ""
+
+#: widgets/widget-fb_like_box.php:108
+msgid "Find us on Facebook"
+msgstr ""
+
+#: widgets/widget-fb_like_box.php:124
+msgid "App Id"
+msgstr ""
+
+#: widgets/widget-fb_like_box.php:127
+msgid ""
+"Dont't know your App ID? Head on over to <a target=\"_blank\" href=\"https://"
+"developers.facebook.com/\">FB Developer</a> and create App ID. Still need "
+"help? visit <a target=\"_blank\" href=\"http://sayful1.wordpress."
+"com/2014/06/12/how-to-get-facebook-api-key/\">here</a>."
+msgstr ""
+
+#: widgets/widget-fb_like_box.php:130
+msgid "Facebook Page URL"
+msgstr ""
+
+#: widgets/widget-fb_like_box.php:132
+msgid ""
+"The absolute URL of the Facebook Page that will be liked. e.g. https://www."
+"facebook.com/FacebookDevelopers"
+msgstr ""
+
+#: widgets/widget-fb_like_box.php:137
+msgid "The width of the plugin in pixels. Minimum is 180. Maximum is 500."
+msgstr ""
+
+#: widgets/widget-fb_like_box.php:142
+msgid ""
+"The height of the plugin in pixels. The default height varies based on "
+"number of faces to display, and whether the stream is displayed."
+msgstr ""
+
+#: widgets/widget-fb_like_box.php:146
+msgid "Show Friends' Faces"
+msgstr ""
+
+#: widgets/widget-fb_like_box.php:150
+msgid "Show Page Posts"
+msgstr ""
+
+#: widgets/widget-fb_like_box.php:154
+msgid "Use Small Header"
+msgstr ""
+
+#: widgets/widget-fb_like_box.php:158
+msgid "Hide Cover Photo"
+msgstr ""
+
+#: widgets/widget-flickr.php:18
+msgid "Shapla Flickr Photos"
+msgstr ""
+
+#: widgets/widget-flickr.php:21
+msgid "Display your latest Flickr photos."
+msgstr ""
+
+#: widgets/widget-flickr.php:98
+msgid "Invalid flickr ID"
+msgstr ""
+
+#: widgets/widget-flickr.php:127
+msgid "Flickr Photos"
+msgstr ""
+
+#: widgets/widget-flickr.php:140
+msgid "Your Flickr User ID:"
+msgstr ""
+
+#: widgets/widget-flickr.php:142
+#, php-format
+msgid "Head over to %s to find your Flickr user ID."
+msgstr ""
+
+#: widgets/widget-flickr.php:146
+msgid "Number of photos to show:"
+msgstr ""
+
+#: widgets/widget-instagram.php:17
+msgid "Shapla Instagram Photos"
+msgstr ""
+
+#: widgets/widget-instagram.php:20
+msgid "A widget that displays your Instagram feed, posts, or likes."
+msgstr ""
+
+#: widgets/widget-instagram.php:99
+#, php-format
+msgid "Follow %1$s on Instagram"
+msgstr ""
+
+#: widgets/widget-instagram.php:102
+msgid "Error: We were unable to fetch your instagram feed."
+msgstr ""
+
+#: widgets/widget-instagram.php:130
+msgid "Instagram Photos"
+msgstr ""
+
+#: widgets/widget-instagram.php:147
+msgid "Instagram Username:"
+msgstr ""
+
+#: widgets/widget-instagram.php:152
+msgid "Photo Count:"
+msgstr ""
+
+#: widgets/widget-instagram.php:157
+msgid "Photo Size:"
+msgstr ""
+
+#: widgets/widget-instagram.php:159
+msgid "Thumbnail"
+msgstr ""
+
+#: widgets/widget-instagram.php:160
+msgid "Low Resolution"
+msgstr ""
+
+#: widgets/widget-instagram.php:161
+msgid "High Resolution"
+msgstr ""
+
+#: widgets/widget-instagram.php:166
+msgid "Cache time (in hours):"
+msgstr ""
+
+#: widgets/widget-testimonials.php:9
+msgid "Shapla Testimonials"
+msgstr ""
+
+#: widgets/widget-testimonials.php:10
+msgid "Display client testimonials."
+msgstr ""
+
+#: widgets/widget-testimonials.php:49
+msgid "Number of Testimonials:"
+msgstr ""
+
+#: widgets/widget-testimonials.php:53
+msgid "Order By"
+msgstr ""
+
+#: widgets/widget-testimonials.php:56
+msgid "ID"
+msgstr ""
+
+#: widgets/widget-testimonials.php:57
+msgid "Date"
+msgstr ""
+
+#: widgets/widget-testimonials.php:58
+msgid "Modified"
+msgstr ""
+
+#: widgets/widget-testimonials.php:59
+msgid "Random"
+msgstr ""
+
+#: widgets/widget-twitter.php:18
+msgid "Shapla Latest Tweets"
+msgstr ""
+
+#: widgets/widget-twitter.php:21
+msgid "Displays your latest tweets from Twitter."
+msgstr ""
+
+#: widgets/widget-twitter.php:104
+msgid "right now"
+msgstr ""
+
+#: widgets/widget-twitter.php:109
+msgid "seconds ago"
+msgstr ""
+
+#: widgets/widget-twitter.php:114
+msgid "about 1 minute ago"
+msgstr ""
+
+#: widgets/widget-twitter.php:119
+msgid "minutes ago"
+msgstr ""
+
+#: widgets/widget-twitter.php:124
+msgid "about 1 hour ago"
+msgstr ""
+
+#: widgets/widget-twitter.php:129
+msgid "hours ago"
+msgstr ""
+
+#: widgets/widget-twitter.php:134
+msgid "yesterday"
+msgstr ""
+
+#: widgets/widget-twitter.php:139
+msgid "days ago"
+msgstr ""
+
+#: widgets/widget-twitter.php:143
+msgid "over a year ago"
+msgstr ""
+
+#: widgets/widget-twitter.php:199
+msgid "Error fetching feeds. Please verify the Twitter settings in the widget."
+msgstr ""
+
+#: widgets/widget-twitter.php:220
+msgid "Latest Tweets"
+msgstr ""
+
+#: widgets/widget-twitter.php:236
+msgid "Twitter Username (without @)"
+msgstr ""
+
+#: widgets/widget-twitter.php:242
+msgid "Number of Tweets to Display"
+msgstr ""
+
+#: widgets/widget-twitter.php:248
+msgid "Consumer Key"
+msgstr ""
+
+#: widgets/widget-twitter.php:251
+msgid ""
+"Don't know your Consumer Key, Consumer Secret, Access Token and Access Token "
+"Secret? <a target=\"_blank\" href=\"http://sayful1.wordpress.com/2014/06/14/"
+"how-to-generate-twitter-api-key-api-secret-access-token-access-token-secret/"
+"\">Click here to get help.</a>"
+msgstr ""
+
+#: widgets/widget-twitter.php:255
+msgid "Consumer Secret"
+msgstr ""
+
+#: widgets/widget-twitter.php:261
+msgid "Access Token"
+msgstr ""
+
+#: widgets/widget-twitter.php:267
+msgid "Access Token Secret"
+msgstr ""

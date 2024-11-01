@@ -1,0 +1,13 @@
+/* ALERTS */
+.shapla-alert {
+	padding: 20px 15px;
+	margin: 1em 0;
+	
+	&--green { background: #84c333; }
+	&--red { background: #d15858; }
+	&--yellow { background: #ffd164; }
+	&--blue { background: #1b93c7; }
+	&--gray { background: #979797; }
+	&--grey { background: #979797; }
+	&--white { background: #f5f5f5; }
+}

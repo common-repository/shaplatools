@@ -1,0 +1,126 @@
+.theme-bar {
+	&.slider-wrapper {
+	    position: relative;
+	    overflow: hidden;
+	}
+	.nivoSlider {
+		position:relative;
+		background:#fff url($nivo-loading-url) no-repeat 50% 50%;
+
+		img {
+			position:absolute;
+			top:0px;
+			left:0px;
+			display:none;
+		}
+		a {
+			border:0;
+			display:block;
+		}
+	}
+
+	.nivo-controlNav {
+	    position: absolute;
+	    left: 0;
+	    bottom: -41px;
+	    z-index: 10;
+	    width: 100%;
+	    height: 30px;
+		text-align: center;
+		padding: 5px 0;
+		border-top: 1px solid #333;
+		background: #333;
+	    opacity: 0.5;
+	    -webkit-transition: all 200ms ease-in-out;
+	    -moz-transition: all 200ms ease-in-out;
+	    -o-transition: all 200ms ease-in-out;
+	    transition: all 200ms ease-in-out;
+
+	    a {
+			display:inline-block;
+			width:22px;
+			height:22px;
+			background:url($nivo-bullets-default-url) no-repeat;
+			text-indent:-9999px;
+			border:0;
+			margin: 0 2px;
+
+			&.active {
+				background-position:0 -22px;
+			}
+		}
+
+		&.nivo-thumbs-enabled {
+			width: 100%;
+			a {
+				width: auto;
+				height: auto;
+				background: none;
+				margin-bottom: 5px;
+			}
+			img {
+				display: block;
+				width: 120px;
+				height: auto;
+			}
+		}
+	}
+
+	.nivo-directionNav a {
+		display:block;
+		border:0;
+		color: #fff;
+		text-transform: uppercase;
+		top: auto;
+		bottom: 5px;
+		z-index: 11;
+		font-size: 13px;
+		line-height: 20px;
+		opacity: 0.5;
+	    -webkit-transition: all 200ms ease-in-out;
+	    -moz-transition: all 200ms ease-in-out;
+	    -o-transition: all 200ms ease-in-out;
+	    transition: all 200ms ease-in-out;
+
+	    &:hover { color: #ddd; }
+	    &.nivo-nextNav { right: -50px; }
+		&.nivo-prevNav { left: -50px; }
+	}
+
+	.nivo-caption {
+	    -webkit-transition: all 200ms ease-in-out;
+	    -moz-transition: all 200ms ease-in-out;
+	    -o-transition: all 200ms ease-in-out;
+	    transition: all 200ms ease-in-out;
+
+	    a {
+		    color:#fff;
+		    border-bottom:1px dotted #fff;
+
+		    &:hover {
+			    color:#fff;
+			}
+		}
+	}
+
+	&:hover {
+		.nivo-controlNav {
+		    bottom: 0;
+		    opacity: 1;
+		}
+
+		.nivo-directionNav {
+			a.nivo-nextNav { 
+			    right: 15px; 
+			    opacity: 1;
+			}
+			a.nivo-prevNav { 
+			    left: 15px; 
+			    opacity: 1;
+			}
+		}
+		.nivo-caption {
+		    bottom: 41px;
+		}
+	}
+}
